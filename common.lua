@@ -29,7 +29,7 @@ function gBADKP:GetPlayerClass(playerName)
 	if className then return className end
 	
 	local i
-	for i = 1, GetNumRaidMembers() do
+	for i = 1, GetNumGroupMembers() do
 		name, _, _, _, _, className, _, _, _, _, _ = GetRaidRosterInfo(i);
 		if name == playerName then
 			self.classNameCache[playerName] = className
