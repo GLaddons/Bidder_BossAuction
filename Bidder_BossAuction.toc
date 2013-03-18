@@ -1,8 +1,8 @@
-## Interface: 50100
+## Interface: 50200
 ## Title: Bidder_BossAuction
 ## Author: Javek - now maintained by Guild Launch
 ## X-Credits: Eraslin
-## Version: 4.2.1
+## Version: 4.2.4
 ## Notes: Bidder module for the boss points/item auction dkp system.
 ## X-Notes: Updated for WoTLK by Guild Launch
 ## X-eMail: support@guildlaunch.com
